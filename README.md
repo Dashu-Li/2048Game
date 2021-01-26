@@ -3,4 +3,6 @@
 
 **开源免费，仅供学习之用。**
 
-源代码详解详见 https://codebus.cn/aknoi/a/2048game
+在此可下载游戏的可执行文件。
+
+源代码详解详见 [CodeBus-梦·渡舟](https://codebus.cn/aknoi/a/2048game)
